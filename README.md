@@ -35,7 +35,7 @@ YouTube Bot is an easy to use simple python script that makes use of selenium to
   
 ## Contribution
 If you are a contributor and willing to contribute to our project. You are highly welcome to do that. Here are the few things you have to keep in mind while doing a contribution.
-- Make sure, you read the [Contributing Guidelines](https://github.com/CYBERDEVILZ/YoutubeBot/blob/main/.github/CONTRIBUTING.md) before starting with contributions.
+- Make sure, you read the [Contributing Guidelines]() before starting with contributions.https://github.com/CYBERDEVILZ/YoutubeBot/blob/main/.github/CONTRIBUTING.md
 - Follow the coding conventions and best practices while making changes to the code.
 - Make use of the ISSUE and PULL_REQUEST templates in the [.github](https://github.com/CYBERDEVILZ/YoutubeBot/blob/main/.github/) folder.
   
